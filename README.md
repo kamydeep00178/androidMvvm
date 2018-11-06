@@ -14,3 +14,4 @@ RecyclerView
 Android Architecture Components
 Android JetPack
 
+[Live example of Android MVVM (YouTube Video )](https://www.youtube.com/watch?v=GNN8BWZvXW8&t=2s)
