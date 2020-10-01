@@ -1,5 +1,5 @@
 # androidMvvm
-Android Studio Version 3.3
+Android Studio Version 3.3+
 gradle version 'com.android.tools.build:gradle:3.3.0-alpha02'
 
 
